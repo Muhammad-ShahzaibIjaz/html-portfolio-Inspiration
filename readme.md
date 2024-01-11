@@ -8,7 +8,6 @@ Welcome to the HTML Portfolio Templates Repository. This repository provides a c
 - [Templates Included](#templates-included)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
